@@ -2,7 +2,7 @@
   
  
 $aing = array(
-    "tkn"=>"...", // isi dengan token dari akun bot Anda
+    "tkn"=>"210452080:AAH_9oqPTyAM7vJLzMXcSKE-_JFMqfZZYQ4", // isi dengan token dari akun bot Anda
     "log"=>"piro.txt",
     "udh"=>"simpen.txt"
 );
