@@ -1,6 +1,5 @@
 <?php
-  /** dwisiswanto.my.id **/
-  /***********************/
+  
  
 $aing = array(
     "tkn"=>"...", // isi dengan token dari akun bot Anda
